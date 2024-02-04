@@ -1,6 +1,6 @@
 name: hugos_extensions
 description: "A personal and highly opinionated Flutter extension package for common UI and Logic tasks"
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/FantixX/hugos_extensions
 
 environment:
