@@ -6,3 +6,6 @@
 
 ## 0.0.3
 * Added new extensions
+
+## 0.0.4
+* fixed some bugs
